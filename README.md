@@ -20,10 +20,6 @@
 - **VendorVault** — a live operations platform for a cloud-kitchen business. WhatsApp-webhook order ingestion, SQLite cost-propagation, live margin tracking.
 - **Rippl-Predict** — article virality forecasting with SHAP explainability and interactive 3D PCA / Plotly analytics dashboards.
 
-### 💡 What I care about
-
-Using AI to ship things people actually use — healthcare, public health, small-business operations. I read every major model release with one question: *"Could this help us ship something better?"*
-
 ### 🛠️ Stack
 
 **Languages:** Python · Java · SQL · JavaScript
@@ -40,18 +36,6 @@ Using AI to ship things people actually use — healthcare, public health, small
 | 🩺 [RetinaGuard](https://github.com/Gaurav-0704/RetinaGuard) | PyTorch · EfficientNet-B4 · Flask · Grad-CAM | Clinical DR screening platform — built on my ISSN 2321-2152 publication |
 | 📊 [Rippl-Predict](https://github.com/Gaurav-0704/Rippl-Predict) | Python · XGBoost · SHAP · Plotly · FastAPI | Article virality forecasting + 3D analytics dashboard |
 | 🛒 [SmartCart](https://github.com/Gaurav-0704/SmartCart) | Java · Android · ML Kit · CameraX | Grocery shopping app with budget tracking + barcode scanning |
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-0704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-0704&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ### 🌐 Find me
 
