@@ -16,9 +16,7 @@
 ### 🚀 What I'm building right now
 
 - **AI Symptom Triage Platform** — my master's thesis. A full-stack healthcare app that pairs ML classifiers with LLMs to triage symptoms for ALK-positive lung cancer patients in real time.
-- **RetinaGuard** — a clinical-grade diabetic retinopathy screening platform built on top of my published research (ISSN 2321-2152). EfficientNet-B4, Grad-CAM heatmaps, dual patient/clinician portals.
 - **VendorVault** — a live operations platform for a cloud-kitchen business. WhatsApp-webhook order ingestion, SQLite cost-propagation, live margin tracking.
-- **Rippl-Predict** — article virality forecasting with SHAP explainability and interactive 3D PCA / Plotly analytics dashboards.
 
 ### 🛠️ Stack
 
@@ -35,10 +33,11 @@
 | 🍱 [VendorVault](https://github.com/Gaurav-0704/VendorVault) | Python · Flask · SQLite | Cloud-kitchen operations platform — orders, vendor purchases, live margins |
 | 🩺 [RetinaGuard](https://github.com/Gaurav-0704/RetinaGuard) | PyTorch · EfficientNet-B4 · Flask · Grad-CAM | Clinical DR screening platform — built on my ISSN 2321-2152 publication |
 | 📊 [Rippl-Predict](https://github.com/Gaurav-0704/Rippl-Predict) | Python · XGBoost · SHAP · Plotly · FastAPI | Article virality forecasting + 3D analytics dashboard |
+| 🔍 [Auto-Lens](https://github.com/Gaurav-0704/Auto-Lens) | YOLOv12 · EasyOCR · FastAPI · React Native | License-plate recognition + vehicle intelligence (DPPA-safe) |
 | 🛒 [SmartCart](https://github.com/Gaurav-0704/SmartCart) | Java · Android · ML Kit · CameraX | Grocery shopping app with budget tracking + barcode scanning |
 
 ### 🌐 Find me
 
 📧 **tgauravsingh07@gmail.com** &nbsp;·&nbsp; 📍 Dayton, OH &nbsp;·&nbsp; 🔗 [Portfolio](https://gst-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/gauravsinghthakur-)
 
-<sub>📌 Open to Summer 2026 internships and full-time roles in Applied AI, ML Engineering, Data Science, and Full-Stack AI development.</sub>
+<sub>📌 Open to Summer 2026 internships and full-time roles in Applied AI, ML Engineering, Data Science, and Full-Stack AI develo
